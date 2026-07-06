@@ -24,6 +24,4 @@ This project analyzes Uber trip data using Power BI to provide business insights
 - KPI Reporting
 - Business Analysis
 
-## Dashboard Preview
 
-(Add your dashboard screenshot here)
